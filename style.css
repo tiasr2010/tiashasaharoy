@@ -113,6 +113,11 @@ a {
   font-weight: bold;
 }
 
+.social-links a {
+  display: block;
+  margin-bottom: 8px;
+}
+
 .links {
   font-family: Arial, sans-serif;
   font-size: 15px;
